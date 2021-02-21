@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Salsabila Pustaka</string>
+
+    <string-array name="a">
+        <item>---Pilih---</item>
+        <item>Kimia 3</item>
+        <item>Pendidikan Agama Islam</item>
+        <item>Penjaskes</item>
+        <item>Matematika 3</item>
+        <item>Fisika 3</item>
+        <item>Pendidikan Kewarganegaraan</item>
+        <item>Ilmu Pengetahuan Alam 3</item>
+        <item>Ilmu Pengetahuan Sosial 3</item>
+    </string-array>
+
+    <string-array name="b">
+        <item>---Pilih---</item>
+        <item>Perempuan Teduh</item>
+        <item>Geez dan Ann</item>
+        <item>Buku Minta Dibanting</item>
+        <item>Kata</item>
+        <item>Rentang Kisah</item>
+        <item>Dia Adalah Kakakku</item>
+    </string-array>
+
+    <string-array name="c">
+        <item>---Pilih---</item>
+        <item>Putri Salju</item>
+        <item>Harry POtter</item>
+        <item>Kisah-kisah 25 Nabi</item>
+        <item>Nussa</item>
+        <item>Cinderella</item>
+        <item>7 Kurcaci</item>
+        <item>Si Kancil</item>
+    </string-array>
+
+</resources>
